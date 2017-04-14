@@ -39,6 +39,3 @@ make.innerHTML = `<article class="card-article">
            		</article>`;
 
 });
-
-
-
