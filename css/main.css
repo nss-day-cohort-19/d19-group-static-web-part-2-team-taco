@@ -22,6 +22,7 @@ nav ul li{
 
 nav ul {
   text-align: right;
+  margin-bottom: 0;
 }
 
 nav ul li a {
@@ -88,4 +89,22 @@ HERO IMAGE
 
 .hero {
   width: 100%;
+}
+
+/****
+LOGO
+*****/
+
+header h2 a {
+  font-family: "Yellowtail", serif;
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+  float: left;
+}
+
+header h2 {
+  float: left;
+  margin: 0;
+  padding-bottom: 1%;
 }
