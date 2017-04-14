@@ -85,3 +85,7 @@ footer h1 {
 /**********
 HERO IMAGE
 ***********/
+
+.hero {
+  width: 100%;
+}
