@@ -1,10 +1,52 @@
+/***********************
+GLOBAL STYLES BY MADELINE
+*************************/
+@import url('https://fonts.googleapis.com/css?family=Yellowtail');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:300,400,500,700');
 body {
   background-color: #252323;
   margin: 0;
-  text: white;
+  color: white;
 }
 
 .global-container {
   width: 80%;
   margin: 0 auto;
+}
+
+nav ul li{
+  display: inline;
+  list-style-type: none;
+}
+
+nav ul {
+  text-align: right;
+}
+
+nav ul li a {
+  color: white;
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+  text-decoration: none;
+  margin-left: 1%;
+  font-size: 1.2em;
+}
+
+header h2 {
+  float: left;
+}
+
+/*************
+FOOTER STYLES
+*************/
+
+.more-info {
+  float: right;
+  width: 50%;
+}
+
+.connect_and_info_inner {
+  width: 50%;
+  float: right;
 }
