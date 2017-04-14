@@ -1,0 +1,28 @@
+.card-container, .card-article {
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 1%;
+}
+
+.wrapper {
+  display: inline-block;
+  margin: 0 auto;
+  font-family: "Fjalla One", sans-serif;
+  text-transform: uppercase;
+  padding-left: 3%;
+}
+
+.wrapper h2 {
+  font-size: 1em;
+}
+
+.wrapper p {
+  font-size: .75em;
+}
+.wrapper h3 {
+  font-size: 1em;
+}
+.card-img {
+  width: 60%;
+}
