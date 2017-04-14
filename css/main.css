@@ -1,0 +1,9 @@
+body {
+  background-color: #252323;
+  margin: 0;
+}
+
+.global-container {
+  width: 80%;
+  margin: 0 auto;
+}

@@ -1,4 +1,4 @@
-# Static Web Group Project
+ # Static Web Group Project
 
 As a team, build the web site for a fictitious product company. The team gets to decide what the name of the company is, and what types of products it manufactures. Be creative and have fun.
 
@@ -49,7 +49,7 @@ Once the PR gets a thumbs up, the teammates can merge the branch by following th
 
 ```bash
 git checkout master
-git merge [your approved branch name] 
+git merge [your approved branch name]
 # Fix any merge conflicts, if you have them
 git push origin master
 ```
@@ -63,4 +63,3 @@ The team's product page will be driven from JavaScript code. Decide on the names
 1. The team will use JavaScript to add each product to the DOM.
 1. Each product must be a card. As a team, decide on the style of the card.
 1. The layout of the product page should be a grid of cards. 3-wide, 4-wide, 5-wide, the teams must decide how many cards are on each row.
-
