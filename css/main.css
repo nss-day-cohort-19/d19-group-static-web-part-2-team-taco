@@ -42,8 +42,9 @@ nav a:hover {
   background-color: black;
 }
 
-header h2 {
-  /*float: left;*/
+header a:hover {
+  color: #ddd78f;
+  background-color: black;
 }
 
 /*************
@@ -56,6 +57,7 @@ footer {
 
 footer ul {
   list-style-type: none;
+  padding: 0;
 }
 
 footer ul li a {
