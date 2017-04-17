@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Yellowtail');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:300,400,500,700');
+
+
+/***********************
+GENERAL FOR DEALER PAGE
+************************/
+
+.dealer-container {
+	padding: 7% 0 25% 0;
+	text-align: left;
+}
+
+.dealer-heading {
+	text-align: center;
+	font-family: "Yellowtail";
+	font-size: 2.2em;
+}
+
+.dealer-list {
+	display: inline-flex;
+	column-count: 3;
+	column-fill: balance;
+	margin: 10px -5;
+}
+
+p {
+	padding: 0 10%;
+}
+
+/*****************************************
+UL'S AND LI'S and <a>tags FOR STORE INFO
+******************************************/
+.column1 ul li {
+	display: inline-block;
+	text-decoration: none;
+	float: none;
+}
+
+.column2 ul li {
+	display: inline-block;
+	text-decoration: none;
+	float: none;
+}
+
+.column3 ul li {
+	display: inline-block;
+	text-decoration: none;
+	float: none;
+}
+
+/*
+.dealer-container a:link, .dealer-container a:unvisited {
+	color: #fff;
+}*/
+
+
+.dealer-container a:link, .dealer-container a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.column1 a:hover {
+	color: #ddd78f;
+  	background-color: black;
+}
+
+.column2 a:hover {
+	color: #ddd78f;
+  	background-color: black;
+}
+
+.column3 a:hover {
+	color: #ddd78f;
+  	background-color: black;
+}
+
+.dealer-container a:link, .dealer-container a:active {
+	color: #ffffff;
+}
+
+
+
+
+
+
+
+
