@@ -2,3 +2,18 @@
   color: white;
   background-color: black;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+.my-div h1 {
+  font-family: "Fjalla One", sans-serif;
+  text-transform: uppercase;
+}
+
+.my-div th {
+  font-family: "Fjalla One", sans-serif;
+}
+
+.my-div td {
+  font-family: Helvetica, sans-serif;
+}
